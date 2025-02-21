@@ -14,10 +14,13 @@ Neighbors: Number of neighboring addresses involved in the transaction.
 Income: The income or value transferred in the transaction.
 Label: The type of ransomware associated with the address (e.g., Cerber, Locky).
 Income per Day: A new feature derived by dividing the income by the day of the year.
+
 Goal: The goal of this project is to:
 
-Detect ransomware-related transactions on the Bitcoin network.
-Identify suspicious Bitcoin addresses involved in ransomware payments. 3.Provide insights into Bitcoin network behaviors related to ransomware attacks.
+1.Detect ransomware-related transactions on the Bitcoin network.
+2.Identify suspicious Bitcoin addresses involved in ransomware payments. 
+3.Provide insights into Bitcoin network behaviors related to ransomware attacks.
+
 Technologies Used:
 
 Python: For data processing and machine learning modeling.
