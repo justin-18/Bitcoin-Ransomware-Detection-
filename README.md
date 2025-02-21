@@ -20,6 +20,7 @@ Goal: The goal of this project is to:
 1.Detect ransomware-related transactions on the Bitcoin network.
 
 2.Identify suspicious Bitcoin addresses involved in ransomware payments. 
+
 3.Provide insights into Bitcoin network behaviors related to ransomware attacks.
 
 Technologies Used:
