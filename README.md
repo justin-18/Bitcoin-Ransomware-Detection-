@@ -24,5 +24,7 @@ Goal: The goal of this project is to:
 Technologies Used:
 
 Python: For data processing and machine learning modeling.
+
 Pandas & NumPy: For data manipulation and handling large datasets.
+
 Scikit-learn: For building and evaluating machine learning models.
